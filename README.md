@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Support Docs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Training & Troubleshooting</b>
+  - [Simulating a Service Desk Environment - for IT Support Training](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
+- <b>Customer/User Support </b>
+  - [Implementing a Password Manager across Client Devices - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
+  - [Deploying a Virtual Microphone Solution](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
+  - [Automating Support Documentation with AI](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
