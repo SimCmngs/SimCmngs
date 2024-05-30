@@ -3,11 +3,11 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Training & Troubleshooting</b>
-  - [Simulating a Service Desk Environment - for IT Support Training](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
+  - 💬 [Simulating a Service Desk Environment - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
 - <b>Customer/User Support </b>
-  - [Implementing a Password Manager across Client Devices - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
-  - [Deploying a Virtual Microphone Solution](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
-  - [Automating Support Documentation with AI](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+  - 🔐 [Implementing a Password Manager across Client Devices - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
+  - 📲 [Deploying a Virtual Microphone Solution - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
+  - 📄 [Automating Support Document Creation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
