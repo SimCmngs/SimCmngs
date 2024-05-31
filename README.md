@@ -1,19 +1,23 @@
 <h1>Sim Cmngs! <br/><a href="https://github.com/simcmngs">IT/Cloud Support Eningeer</a></h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>🐱‍💻 IT Support Projects:</h2>
 
 - <b>Training & Troubleshooting</b>
-  - 💬 [Simulating a Service Desk Environment - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
+  - 💬 [IT Service Desk Simulation - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
 - <b>Customer/User Support </b>
-  - 🔐 [Implementing a Password Manager across Client Devices - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
-  - 📲 [Deploying a Virtual Microphone Solution - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
-  - 📝 [Automating Support Document Creation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+  - 🛅 [Password Management Solution - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
+  - 📲 [Virtual Microphone Deployment Solution - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
+  - 📝 [User Support Document Automation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+
+<h2>🧿 Supporting Evidence:</h2>
+
+- 
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
 - [MS Teams: Troubleshooting Audio Issues](https://youtu.be/qudKhUeyLH0)
 - [OneDrive: Collaboration setup / Documentation](https://youtu.be/JdyWYHMRDXc)
-- [Video Tutorial: Logging into your Accounts - Using the Password Manager](https://youtu.be/6g3I2nGUg50)
+- [Video Tutorial: Logging into your Accounts - Using the Password Manager](https://youtu.be/6g3I2nGUg50)ℹ
 
 <h2> 🤳 Connect:</h2>
 
