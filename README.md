@@ -2,7 +2,7 @@
 
 <h2>🐱‍💻 IT Support Projects:</h2>
 
-- <b>Training & Troubleshooting</b>
+- <b>Administration & Troubleshooting</b>
   - 💬 [IT Service Desk Simulation - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
 - <b>Customer/User Support </b>
   - 🛅 [Password Management Solution - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
@@ -11,13 +11,13 @@
 
 <h2>🧿 Supporting Evidence:</h2>
 
-- 
+- ℹ
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
 - [MS Teams: Troubleshooting Audio Issues](https://youtu.be/qudKhUeyLH0)
 - [OneDrive: Collaboration setup / Documentation](https://youtu.be/JdyWYHMRDXc)
-- [Video Tutorial: Logging into your Accounts - Using the Password Manager](https://youtu.be/6g3I2nGUg50)ℹ
+- [Video Tutorial: Logging into your Accounts - Using the Password Manager](https://youtu.be/6g3I2nGUg50)
 
 <h2> 🤳 Connect:</h2>
 
