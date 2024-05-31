@@ -7,7 +7,7 @@
 - <b>Customer/User Support </b>
   - 🔐 [Implementing a Password Manager across Client Devices - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
   - 📲 [Deploying a Virtual Microphone Solution - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
-  - 📄 [Automating Support Document Creation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+  - 📝 [Automating Support Document Creation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
