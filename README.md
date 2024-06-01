@@ -12,7 +12,7 @@
 <h2>🧿 Supporting Evidence:</h2>
 
 - ℹ [75+ common IT issues: diagnosed and resolved](https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved)
-- ℹ [15+ support guides / documentation](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+- ℹ [15+ support guides / documentation](https://github.com/SimCmngs/UserSupportGuides)
 
 <h2>📺 YouTube - Support Ticket Video Demonstrations</h2>
 
