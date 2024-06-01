@@ -6,8 +6,8 @@
   - 💬 [IT Service Desk Simulation - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
 - <b>Customer/User Support </b>
   - 🛅 [Password Management Solution - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
-  - 📲 [Virtual Microphone Deployment Solution - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
-  - 📝 [User Support Document Automation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
+  - 📲 [Virtual Microphone Deployment - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
+  - 📝 [Support Docs Automation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
 <h2>🧿 Supporting Evidence:</h2>
 
