@@ -1,4 +1,4 @@
-<h1>Sim Cmngs! <br/><a href="https://github.com/simcmngs">IT Support / Cloud Specialist</a></h1>
+<h1>Sim Cmngs! <br/><a href="https://github.com/simcmngs">IT Support Specialist</a></h1>
 
 <h2>🐱‍💻 IT Support Projects:</h2>
 
