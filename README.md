@@ -2,7 +2,7 @@
 
 <h2>🐱‍💻 IT Support Projects:</h2>
 
-- <b>IT Support & Troubleshooting</b>
+- <b>Administration & Troubleshooting</b>
   - 💬 [IT Service Desk Simulation - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
 - <b>Customer Service / End User Support </b>
   - 🛅 [Password Management Solution - (Remote Support)](https://github.com/SimCmngs/PasswordManager-Implementation)
