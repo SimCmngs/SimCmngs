@@ -9,7 +9,7 @@
   - 📲 [Virtual Microphone Deployment - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
   - 📝 [Support Docs Automation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
-<img src="images/GIF_JiraSupportTicket.gif" width="150%" height="150%" />
+<img src="images/GIF_JiraSupportTicket.gif" width="100%" height="100%" />
 
 <h2>🧿 Supporting Evidence:</h2>
 
