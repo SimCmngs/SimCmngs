@@ -9,12 +9,13 @@
   - 📲 [Virtual Microphone Deployment - (Microsoft Teams / Intune)](https://github.com/SimCmngs/MSTeamsVirtualMic-AppDeployment)
   - 📝 [Support Docs Automation - (AI-Powered Tools)](https://github.com/SimCmngs/SupportDocs-AI-Automation)
 
-<img src="images/GIF_JiraSupportTicket.gif" width="100%" height="100%" />
-
 <h2>🧿 Supporting Evidence:</h2>
 
 - ℹ [75+ common IT issues: diagnosed and resolved](https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved)
 - ℹ [15+ support guides / documentation](https://github.com/SimCmngs/UserSupportGuides)
+
+<img src="images/GIF_JiraSupportTicket.gif" width="100%" height="100%" />
+
 
 <!--
 **simcmngs/simcmngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
