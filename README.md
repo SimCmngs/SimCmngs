@@ -1,6 +1,6 @@
 <h1>Sim Cummings<br/><a href="https://github.com/simcmngs">IT Support / Cloud Specialist</a></h1>
 
-<h2>🐱‍💻 IT Support Projects:</h2>
+<h2>🧑‍💻 IT Support Projects:</h2>
 
 - <b>Administration & Troubleshooting</b>
   - 💬 [IT Service Desk Simulation - (VMware / Microsoft 365)](https://github.com/SimCmngs/ITSupport-TrainingSimualtion)
